@@ -1,0 +1,12 @@
+Segunda aula da Imersão Dev 7!
+
+Introdução
+Na segunda aula da Imersão Dev, vamos mergulhar na criação de um jogo de adivinhação. Neste desafio, o programa escolherá um número aleatório, e nosso objetivo é adivinhar esse número.
+
+Durante esta aula, você vai:
+
+Realizar o fork do projeto com o template inicial;
+Realizar testes interativos usando prompt;
+Criar a lógica do jogo utilizando estruturas condicionais como if e else;
+Utilizar a função Math.random() do JavaScript para gerar números aleatórios.
+Função: var numeroSecreto = parseInt(Math.random() * 1001);
