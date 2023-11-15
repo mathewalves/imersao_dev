@@ -1,0 +1,10 @@
+Introdução Aula 3 da 7ªImersão 
+Nesta aula, exploraremos estruturas de dados e como trabalhar com listas. Abordaremos os seguintes tópicos:
+
+Criação de uma primeira array de filmes usando a sintaxe [];
+Uso do método filmes.push("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);
+Descoberta da quantidade de elementos em uma array com o método array.length;
+Seleção de elementos de uma array utilizando a sintaxe array[número], lembrando que o primeiro índice começa com zero, ou seja, array[0] para o primeiro elemento;
+Utilização da instrução for para iterar, ou seja, percorrer todos os elementos de uma array;
+Criação de uma array com imagens de pôsteres de alguns filmes que gostamos;
+Montagem da lógica do programa que irá iterar está array de filmes e exibir cada um deles na tela, integrando o for do JavaScript com document.write()
