@@ -6,16 +6,16 @@
 Durante a **7ª Imersão Dev - Alura**, os participantes tiveram a oportunidade de trabalhar em cinco projetos práticos, explorando diversas tecnologias e conceitos essenciais do desenvolvimento web.
 
 1. **Conversor de Real para Dólar:**
-   - Na primeira aula, os participantes construíram um conversor de moeda simples, permitindo a conversão de valores de real para dólar.
+   - Na primeira aula, os participantes construíram um conversor de moeda simples, permitindo a conversão de valores de real para dólar. [Link do Projeto](https://mathewalves.github.io/imersao_dev/jogo_adivinha%C3%A7%C3%A3o/).
 
 2. **Jogo de Adivinhação:**
-   - A segunda aula envolveu a criação de um jogo de adivinhação, desafiando os participantes a implementarem um número misterioso a ser adivinhado pelo usuário.
+   - A segunda aula envolveu a criação de um jogo de adivinhação, desafiando os participantes a implementarem um número misterioso a ser adivinhado pelo usuário. [Link do Projeto](https://mathewalves.github.io/imersao_dev/jogo_adivinha%C3%A7%C3%A3o/).
 
 3. **AluraFlix - Catálogo de Filmes:**
-   - Na terceira aula, os participantes desenvolveram o AluraFlix, um catálogo de filmes, utilizando HTML, CSS e JavaScript. O projeto focou na construção de interfaces dinâmicas e manipulação de dados.
+   - Na terceira aula, os participantes desenvolveram o AluraFlix, um catálogo de filmes, utilizando HTML, CSS e JavaScript. O projeto focou na construção de interfaces dinâmicas e manipulação de dados. [Link do Projeto](https://mathewalves.github.io/imersao_dev/jogo_adivinha%C3%A7%C3%A3o/).
 
 4. **AluraFlix - Adicionar Filmes:**
-   - A quarta aula expandiu o projeto AluraFlix, adicionando a funcionalidade de permitir aos usuários adicionar novos filmes ao catálogo.
+   - A quarta aula expandiu o projeto AluraFlix, adicionando a funcionalidade de permitir aos usuários adicionar novos filmes ao catálogo. [Link do Projeto](https://mathewalves.github.io/imersao_dev/jogo_adivinha%C3%A7%C3%A3o/).
 
 5. **[Nome do Quinto Projeto]:**
    - Descrição breve do quinto projeto desenvolvido durante a imersão.
