@@ -17,7 +17,7 @@ Durante a **7ª Imersão Dev - Alura**, os participantes tiveram a oportunidade 
 4. **AluraFlix - Adicionar Filmes:**
    - A quarta aula expandiu o projeto AluraFlix, adicionando a funcionalidade de permitir aos usuários adicionar novos filmes ao catálogo. [Link do Projeto: Adicionar Filmes](https://mathewalves.github.io/imersao_dev/adicionar_filmes/).
 
-5. **[Nome do Quinto Projeto]:**
+5. **Tabela de Classificação:**
    - Descrição breve do quinto projeto desenvolvido durante a imersão.
 
 Cada projeto proporcionou desafios práticos, estimulando os participantes a aplicar os conhecimentos adquiridos em situações do mundo real. Esses projetos serviram como uma excelente oportunidade para consolidar habilidades e explorar as tecnologias apresentadas durante o evento.
